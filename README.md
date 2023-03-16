@@ -1,3 +1,3 @@
 # Machine-Learning-Study
 
-1. Colab的代码copy
+1. Colab save a copy in Github
